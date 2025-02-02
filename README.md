@@ -7,7 +7,6 @@
 
  <figure>
   <img src="https://avatars.githubusercontent.com/u/283107?s=280&v=4" alt="Love2D">
-  <figcaption>LOVE2D</figcaption>
 </figure> 
 
 </body>
